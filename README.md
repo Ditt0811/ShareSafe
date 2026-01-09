@@ -18,10 +18,10 @@ ShareSafe adalah aplikasi mobile berbasis **Flutter** yang memungkinkan pengguna
 - **Geolocation**
 
 ## Screenshoot
-![Login](assets/Screenshoot/Login.jpg) "width="150" style="margin-right:10px;"
-![Home](assets/Screenshoot/Home.jpg) "width="150" style="margin-right:10px;"
-![UploadIMG](assets/Screenshoot/Upload_IMG.jpg) "width="150" style="margin-right:10px;"
-![Profile](assets/Screenshoot/Profile.jpg) "width="150" style="margin-right:10px;"
+![Login](assets/Screenshoot/Login.jpg) width="150" style="margin-right:10px;"
+![Home](assets/Screenshoot/Home.jpg) width="150" style="margin-right:10px;"
+![UploadIMG](assets/Screenshoot/Upload_IMG.jpg) width="150" style="margin-right:10px;"
+![Profile](assets/Screenshoot/Profile.jpg) width="150" style="margin-right:10px;"
 
 
 ## Rancangan Arsitektur Sistem
