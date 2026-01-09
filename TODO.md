@@ -1,0 +1,8 @@
+- [x] Remove import of firebase_options.dart from uploadpreviewscreen.dart
+- [x] Change Firebase.initializeApp() in uploadpreviewscreen.dart to without options
+- [x] Fix asset path in pubspec.yaml to - assets/Logo.png
+- [x] Change Image.asset paths in main.dart to 'assets/Logo.png'
+- [x] Add mounted check in homescreen.dart onTap for capture before Navigator.push
+- [x] Add mounted check in homescreen.dart onPressed for flash before setState
+- [x] Add mounted check in uploadpreviewscreen.dart before ScaffoldMessenger in uploadData
+- [x] Run flutter analyze to confirm fixes

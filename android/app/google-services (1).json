@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484104035642",
+    "project_id": "sharesafe-fe133",
+    "storage_bucket": "sharesafe-fe133.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484104035642:android:6a265a618fe1b7a3b90403",
+        "android_client_info": {
+          "package_name": "com.example.sharesafe_app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-CY49rFhX1yGAX_aBv5l50bawk69g1Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
