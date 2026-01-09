@@ -33,3 +33,8 @@ flutter:
   uses-material-design: true
   assets:
     - assets/Logo.png
+    - assets/Screenshoot/Home.jpg
+    - assets/Screenshoot/Login.jpg
+    - assets/Screenshoot/Profile.jpg
+    - assets/Screenshoot/Upload_IMG.jpg
+    - assets/Arsitektur_Sistem.png
